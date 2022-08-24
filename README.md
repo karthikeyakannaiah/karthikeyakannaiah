@@ -12,7 +12,7 @@ frameworks like reactjs etc.., and competitive programming.
 ### I will put Some stats here  :| 
   
 ![karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeyakannaiah&theme=highcontrast&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyakannaiah&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyakannaiah&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karthikeyakannaiah&theme=highcontrast&show_icons=true)  
 
 ### HERE ARE my skills :|  
