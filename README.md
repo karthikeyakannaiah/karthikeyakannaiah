@@ -20,9 +20,9 @@ frameworks like reactjs etc.., and ML/DL.
 
 
 ### if you wanna know more....   
-- 🔭 I’m currently working on C++ and placements 
-- 🌱 I’m currently learning Competitive Programming 
+- 🔭 I’m currently working on Web development and Final year project
+- 🌱 I’m currently learning MERN and ML/DL
 - 👯 I’m looking to collaborate on Learning and Teaching 
-- 📫 How to reach me: doctorchaos11@gmail.com 
+- 📫 How to reach me: karthikeya009k@gmail.com 
 - 😄 Pronouns: He/Him  or yeah try hehe 
 - ⚡ Fun fact: I am still a  
