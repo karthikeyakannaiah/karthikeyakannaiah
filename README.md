@@ -3,11 +3,11 @@
 ![Profile views](https://gpvc.arturio.dev/karthikeyakannaiah)    
 > About Myself  
 Self-paced Learner and an Enthusiast in Programming &
-Web development and worked on projects which have
+Web development, and worked on projects which have
 enhanced my skill set. I want to be an Explorer in a
 rapidly evolving world and technological advancements.
 My current interests are having me explore Web dev
-frameworks like reactjs etc.., and competitive programming.
+frameworks like reactjs etc.., and ML/DL.
 
 ### I will put Some stats here  :| 
       
