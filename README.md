@@ -10,8 +10,7 @@ My current interests are having me explore Web dev
 frameworks like reactjs etc.., and ML/DL.
 
 ### I will put Some stats here  :| 
-      
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karthikeyakannaiah&theme=highcontrast&show_icons=true)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karthikeyakannaiah&theme=react-dark)](https://github.com/karthikeyakannaiah/github-readme-activity-graph)
   
 ### HERE ARE my skills :|  
 <h4 align="left">Languages and Tools:</h4>
