@@ -10,7 +10,7 @@ My current interests are having me explore Web dev
 frameworks like reactjs etc.., and ML/DL.
 
 ### I will put Some stats here  :| 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karthikeyakannaiah&theme=react-dark)](https://github.com/karthikeyakannaiah/github-readme-activity-graph)  
+[![Karthikeya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karthikeyakannaiah&theme=react-dark)](https://github.com/karthikeyakannaiah/github-readme-activity-graph)  
 ![Karthikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeyakannaiah&show_icons=true&theme=tokyonight)
   
 ### HERE ARE my skills :|  
