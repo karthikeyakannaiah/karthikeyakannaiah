@@ -10,7 +10,8 @@ My current interests are having me explore Web dev
 frameworks like reactjs etc.., and ML/DL.
 
 ### I will put Some stats here  :| 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karthikeyakannaiah&theme=react-dark)](https://github.com/karthikeyakannaiah/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karthikeyakannaiah&theme=react-dark)](https://github.com/karthikeyakannaiah/github-readme-activity-graph)  
+![Karthikeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeyakannaiah&show_icons=true&theme=tokyonight)
   
 ### HERE ARE my skills :|  
 <h4 align="left">Languages and Tools:</h4>
@@ -19,9 +20,7 @@ frameworks like reactjs etc.., and ML/DL.
 
 
 ### if you wanna know more....   
-- 🔭 I’m currently working on Web development and Final year project
+- 🔭 I’m currently working on Web development and my Final year project
 - 🌱 I’m currently learning MERN and ML/DL
 - 👯 I’m looking to collaborate on Learning and Teaching 
-- 📫 How to reach me: karthikeya009k@gmail.com 
-- 😄 Pronouns: He/Him  or yeah try hehe 
-- ⚡ Fun fact: I am still a  
+- 📫 How to reach me: karthikeya009k@gmail.com
